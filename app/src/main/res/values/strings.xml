@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="header"><u>Just Java</u></string>
+    <string name="toppings"><u>Toppings</u></string>
+    <string name="quantity"><u>Quantity</u></string>
+    <string name="summary"><u>Order Summary</u></string>
+</resources>
